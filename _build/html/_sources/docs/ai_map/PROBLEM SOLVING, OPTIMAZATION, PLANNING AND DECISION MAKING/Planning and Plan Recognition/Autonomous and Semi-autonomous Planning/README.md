@@ -1,1 +1,0 @@
-# Autonomous and Semi-autonomous Planning

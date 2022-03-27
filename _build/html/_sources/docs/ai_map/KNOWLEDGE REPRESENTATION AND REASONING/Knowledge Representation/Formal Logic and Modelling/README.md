@@ -1,1 +1,0 @@
-# Formal Logic and Modelling

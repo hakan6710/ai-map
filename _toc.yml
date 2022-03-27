@@ -67,9 +67,6 @@ sections:
     - file: docs/ai_map/Machine Learning/Unsupervised Learning/README
       sections:
       - file: docs/ai_map/Machine Learning/Unsupervised Learning/Clustering/README
-        sections:
-        - file: docs/ai_map/Machine Learning/Unsupervised Learning/Clustering/Examples/Unsupervised
-            Learning
       - file: docs/ai_map/Machine Learning/Unsupervised Learning/Dimensionality Reduction/README
       - file: docs/ai_map/Machine Learning/Unsupervised Learning/Probabilistic Methods/README
   - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/README
