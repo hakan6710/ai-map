@@ -1,0 +1,102 @@
+format: jb-article
+root: docs/start
+sections:
+- file: docs/ai_map/README
+  sections:
+  - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/README
+    sections:
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Knowledge Representation/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Knowledge Representation/Formal
+          Logic and Modelling/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Knowledge Representation/Knowledge
+          Graphs and Semantic Networks/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Knowledge Representation/Ontological
+          Engineering/README
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Non-propabilistic Reasoning/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Non-propabilistic Reasoning/Qualitative
+          Approaches/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Non-propabilistic Reasoning/Reasoning
+          with Believe Function/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Non-propabilistic Reasoning/Reasoning
+          with Uncertainty/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Non-propabilistic Reasoning/Rule-Based
+          Approaches/README
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Other Approaches for Uncertain
+        Reasoning/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Other Approaches for Uncertain
+          Reasoning/Other Approaches/README
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Probabilistic Reasoning/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Probabilistic Reasoning/Bayesian
+          Inference/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Probabilistic Reasoning/Probabilistic
+          Reasoning with Time And Uncertainty/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Probabilistic Reasoning/Relational
+          Probabilistic Models/README
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Reasoning/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Reasoning/Formal Verification/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Reasoning/Interactive
+          Verification/README
+    - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Uncertain Knowledge/README
+      sections:
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Uncertain Knowledge/Representation
+          of Uncertain Knowledge/README
+      - file: docs/ai_map/KNOWLEDGE REPRESENTATION AND REASONING/Uncertain Knowledge/Uncertainty
+          Quantification/README
+  - file: docs/ai_map/Machine Learning/README
+    sections:
+    - file: docs/ai_map/Machine Learning/Reinforcement Learning/README
+      sections:
+      - file: docs/ai_map/Machine Learning/Reinforcement Learning/Adaptive Dynamic Programming/README
+      - file: docs/ai_map/Machine Learning/Reinforcement Learning/Monte Carlo Methods/README
+      - file: docs/ai_map/Machine Learning/Reinforcement Learning/Temporal Difference Learning/README
+    - file: docs/ai_map/Machine Learning/Semi-supervised Learning/README
+      sections:
+      - file: docs/ai_map/Machine Learning/Semi-supervised Learning/Graph-based Learning/README
+      - file: docs/ai_map/Machine Learning/Semi-supervised Learning/Modified Learning Concepts/README
+      - file: docs/ai_map/Machine Learning/Semi-supervised Learning/Statistical Approaches/README
+    - file: docs/ai_map/Machine Learning/Supervised Learning/README
+      sections:
+      - file: docs/ai_map/Machine Learning/Supervised Learning/Neural Networks/README
+      - file: docs/ai_map/Machine Learning/Supervised Learning/Probabilistic Methods/README
+      - file: docs/ai_map/Machine Learning/Supervised Learning/Statistical Learning/README
+    - file: docs/ai_map/Machine Learning/Unsupervised Learning/README
+      sections:
+      - file: docs/ai_map/Machine Learning/Unsupervised Learning/Clustering/README
+        sections:
+        - file: docs/ai_map/Machine Learning/Unsupervised Learning/Clustering/Examples/Unsupervised
+            Learning
+      - file: docs/ai_map/Machine Learning/Unsupervised Learning/Dimensionality Reduction/README
+      - file: docs/ai_map/Machine Learning/Unsupervised Learning/Probabilistic Methods/README
+  - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/README
+    sections:
+    - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Decision
+        Making/README
+      sections:
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Decision
+          Making/Approaches for Decision Making/README
+    - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Optimization/README
+      sections:
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Optimization/Bio-inspired
+          Optimization/README
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Optimization/Stasticical
+          Optimization/README
+    - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Planning
+        and Plan Recognition/README
+      sections:
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Planning
+          and Plan Recognition/Autonomous and Semi-autonomous Planning/README
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Planning
+          and Plan Recognition/Plan Recognition Methods/README
+    - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Problem
+        Solving/README
+      sections:
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Problem
+          Solving/Problem Solving Agens & Searching Strategies/README
+      - file: docs/ai_map/PROBLEM SOLVING, OPTIMAZATION, PLANNING AND DECISION MAKING/Problem
+          Solving/Problem Solving Agents & Searching Strategies/README
+
